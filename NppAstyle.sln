@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LibAstyle", "projects\LibAstyle.vcxproj", "{81E36A4C-395F-4CCA-B0C6-48EF3B03617E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NppAstyle", "projects\NppAstyle.vcxproj", "{1BD7589F-938A-44E4-B4CE-B661EBF5E8B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81E36A4C-395F-4CCA-B0C6-48EF3B03617E}.Debug|Win32.ActiveCfg = Release|Win32
+		{81E36A4C-395F-4CCA-B0C6-48EF3B03617E}.Debug|Win32.Build.0 = Release|Win32
+		{81E36A4C-395F-4CCA-B0C6-48EF3B03617E}.Release|Win32.ActiveCfg = Release|Win32
+		{81E36A4C-395F-4CCA-B0C6-48EF3B03617E}.Release|Win32.Build.0 = Release|Win32
+		{1BD7589F-938A-44E4-B4CE-B661EBF5E8B7}.Debug|Win32.ActiveCfg = Release|Win32
+		{1BD7589F-938A-44E4-B4CE-B661EBF5E8B7}.Debug|Win32.Build.0 = Release|Win32
+		{1BD7589F-938A-44E4-B4CE-B661EBF5E8B7}.Release|Win32.ActiveCfg = Release|Win32
+		{1BD7589F-938A-44E4-B4CE-B661EBF5E8B7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
